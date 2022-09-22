@@ -26,6 +26,8 @@ print("Exponentiation of a given number:",a**b)
 ```
 
 ## Output:
+
+
 ![image](https://user-images.githubusercontent.com/113497491/191748404-b0528622-2c41-46d0-b6b8-9ed1cc41b7e8.png)
 
 
