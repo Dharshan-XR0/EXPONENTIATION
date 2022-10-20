@@ -12,30 +12,17 @@ To write a program to find the exponentiation of a number.
 2. Use exponentiation operator to find the exponentiation of a number.
 
 ## Program:
-```
+```python
 Program to find the exponentiation of a number.
 Developed by: V DHARSHAN
 RegisterNumber: 22003103
 
-```
-```
 a=int(input())
 b=int(input())
 print("Exponentiation of a given number:",a**b) 
 
 ```
-
-
-
-
-
-
-
-
-
 ## Output:
-
-
 ![Exponentiation](https://user-images.githubusercontent.com/113497491/191748924-3d1e2ced-fa9d-45e0-91fb-b18c0626af8f.png)
 
 
