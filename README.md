@@ -19,15 +19,16 @@ RegisterNumber: 22003103
 
 ```
 ```
-
-
 a=int(input())
 b=int(input())
 print("Exponentiation of a given number:",a**b) 
 
-
-
 ```
+
+
+
+
+
 
 
 
